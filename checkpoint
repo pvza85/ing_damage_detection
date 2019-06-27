@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ubuntu/workspace/damage_detection/inception"
+all_model_checkpoint_paths: "/home/ubuntu/workspace/damage_detection/inception"

@@ -1,0 +1,6 @@
+*.model
+*.meta
+models/*
+*.pyc
+*.tif
+*.png
